@@ -1,1 +1,1 @@
-# 3 Module Session Linear Algebra Theory Guide
+# 3 Module Session Algebra Theory Guide
